@@ -2,3 +2,7 @@
   run: |
     xcodebuild -version
     xcodebuild -project SocksBypass.xcodeproj -list
+- name: Show Xcode information
+  run: |
+    xcodebuild -version
+    xcodebuild -project SocksBypass.xcodeproj -list
