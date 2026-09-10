@@ -1,0 +1,13 @@
+tunnel:
+  name: wintun
+  mtu: 1400
+  multi-queue: false
+  ipv4: 198.18.0.1
+  ipv6: ''
+
+socks5:
+  address: 127.0.0.1
+  port: 1080
+  udp: 'udp'
+  username: ''
+  password: ''
